@@ -1,4 +1,6 @@
+.venv
 __pycache__
 housing.csv
 testing.ipynb
 report_old.ipynb
+Images
